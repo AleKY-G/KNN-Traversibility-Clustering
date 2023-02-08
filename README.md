@@ -1,2 +1,2 @@
 # knntc
-K-Nearest Neighbors Traversal Clustering
+K-Nearest Neighbors Traversal Clustering algorithm
